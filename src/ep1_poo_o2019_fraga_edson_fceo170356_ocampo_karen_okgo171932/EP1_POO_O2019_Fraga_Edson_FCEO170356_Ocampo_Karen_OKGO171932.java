@@ -18,6 +18,7 @@ public class EP1_POO_O2019_Fraga_Edson_FCEO170356_Ocampo_Karen_OKGO171932 {
         // TODO code application logic here
         System.out.println("Hola mundo");
         System.out.println("ESTEBAN REYES");
+        System.out.println("PRUEBA 2");
     }
     
 }
