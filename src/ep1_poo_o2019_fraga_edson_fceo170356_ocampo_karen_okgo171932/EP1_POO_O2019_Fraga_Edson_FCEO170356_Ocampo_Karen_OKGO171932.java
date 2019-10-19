@@ -34,6 +34,7 @@ public class EP1_POO_O2019_Fraga_Edson_FCEO170356_Ocampo_Karen_OKGO171932 {
                 break;
                 case 2:
                     //mapa.menu();
+                    System.out.println("hola");
                 break;
                 case 3:
                 break;
@@ -45,7 +46,6 @@ public class EP1_POO_O2019_Fraga_Edson_FCEO170356_Ocampo_Karen_OKGO171932 {
             }
         }while(opc != 0);
          
-        System.out.println("Hola mundo");
         System.out.println("ESTEBAN REYES");
         System.out.println("PRUEBA 2");
     }
